@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **SQLite, Ethical Hacking, and Python**
 
-- 👯 I’m looking to collaborate on **Ethical Hacking and Python Projects**
-
 - 🤝 I’m looking for help with **Python Web Development**
 
 - 💬 Discuss with me about **Ethical Hacking related topics**
@@ -45,6 +43,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhanlabs&show_icons=true&locale=en&layout=compact" alt="harshvardhanlabs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhanlabs&show_icons=true&theme=dark&locale=en&layout=compact" alt="harshvardhanlabs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanlabs&" alt="harshvardhanlabs" /></p>
