@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
 <h3 align="center">Passionate about learning Ethical Hacking and Programming</h3>
 
-<p align="left"> 
-  <a href="https://twitter.com/harsh" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/harsh?logo=twitter&style=for-the-badge" alt="harsh" />
-  </a> 
+<p align="center">
+  <img src="https://github.com/harshvardhanlabs/harshvardhanlabs/blob/main/profile.jpg" alt="Harsh Vardhan" width="150px" style="border-radius: 50%;"> 
 </p>
 
 - 🔭 I’m currently working on the **100DaysCodeChallenge**
@@ -47,6 +45,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
 <h3 >GitHub Stats:</h3>
@@ -54,14 +53,14 @@
 <div class="stats-container">
   <p>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhanlabs&show_icons=true&theme=dark&locale=en&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhanlabs&show_icons=true&theme=dark&locale=en&layout=compact&card_width=400" 
       alt="harshvardhanlabs" 
     />
   </p>
 
   <p>
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanlabs&theme=dark&" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanlabs&theme=dark&card_width=400" 
       alt="harshvardhanlabs" 
     />
   </p>
