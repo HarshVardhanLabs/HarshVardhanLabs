@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
 <h3 align="center">Passionate about learning Ethical Hacking and Programming</h3>
-<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1558759/screenshots/6301370/template_s.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhanlabs&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="harshvardhanlabs" /> </p>
 
