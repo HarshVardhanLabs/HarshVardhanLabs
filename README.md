@@ -58,7 +58,7 @@
     />
   </p>
 </span><span class="stats-container">
-  <p align="right">
+  <p align="left">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanlabs&theme=dark&card_width=400" 
       alt="harshvardhanlabs" 
