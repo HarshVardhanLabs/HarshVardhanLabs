@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhanlabs&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="harshvardhanlabs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvardhanlabs&theme=dark" alt="harshvardhanlabs" /></a> </p>
 
 - 🔭 I’m currently working on the **100DaysCodeChallenge**
 - 🌱 I’m currently learning **SQLite, Ethical Hacking, Python**
@@ -49,19 +48,20 @@
 </p>
 
 <h3 >GitHub Stats:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvardhanlabs&theme=dark" alt="harshvardhanlabs" /></a> </p>
 
-<div class="stats-container">
+<span class="stats-container">
   <p>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhanlabs&show_icons=true&theme=dark&locale=en&layout=compact&card_width=400" 
       alt="harshvardhanlabs" 
     />
   </p>
-
-  <p>
+</span><span class="stats-container">
+  <p align="right">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanlabs&theme=dark&card_width=400" 
       alt="harshvardhanlabs" 
     />
   </p>
-</div>
+  </span>
