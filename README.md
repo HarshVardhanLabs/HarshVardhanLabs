@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
 <h3 align="center">Passionate about learning Ethical Hacking and Programming</h3>
 
-<p align="center">
-  <img src="https://github.com/harshvardhanlabs/harshvardhanlabs/blob/main/profile.jpg" alt="Harsh Vardhan" width="150px" style="border-radius: 50%;"> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhanlabs&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="harshvardhanlabs" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvardhanlabs&theme=dark" alt="harshvardhanlabs" /></a> </p>
 
 - 🔭 I’m currently working on the **100DaysCodeChallenge**
 - 🌱 I’m currently learning **SQLite, Ethical Hacking, Python**
